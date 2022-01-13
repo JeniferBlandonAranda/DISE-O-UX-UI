@@ -1,5 +1,6 @@
-# UX-UI
-PROYECTO INTEGRADOR - TRAINING MEET
+# UX-UI TRAINING MEET
+En este repositorio esta almacenado el proyectos integrador de la materia Diseño UX/UI de la carrera Certified tech developer.
+
 
 ## Propuesta de valor
 Interface con foco al usuario
