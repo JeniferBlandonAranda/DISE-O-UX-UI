@@ -16,7 +16,7 @@ Se diseño una interfaz que permita entrenar acompañado de personas con objetiv
 *[Métricas](https://docs.google.com/spreadsheets/d/1yjcTzvcWS684a0qqyKTCQqwTNH_7kngwOJooLXKAn7E/edit?usp=sharing)
 
 ## Guión-Pruebas de usabilidad, Infomer de las pruebas de usabilidad con usuarios - Detalles
-*[](https://docs.google.com/document/d/1ycgQDHAdna0N8jUIvWOS9Q4r5YlVtQ2LwetkB2rv2nI/edit?usp=sharing)
+*[Informe](https://docs.google.com/document/d/1ycgQDHAdna0N8jUIvWOS9Q4r5YlVtQ2LwetkB2rv2nI/edit?usp=sharing)
 
 
 
